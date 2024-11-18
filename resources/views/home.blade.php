@@ -403,7 +403,7 @@
                             <div class="swiper-slide">
                                 <div class="service-item">
                                     <div class="service-item-contents">
-                                        <a href="#">
+                                        <a href="https://sponsorship.fopinternational.org">
                                             <span class="service-item-category">Sponsor</span>
                                             <h2 class="service-item-title">A Child, A Baby, Family</h2>
                                         </a>
@@ -431,7 +431,7 @@
                             <div class="swiper-slide">
                                 <div class="service-item">
                                     <div class="service-item-contents">
-                                        <a href="#">
+                                        <a href="https://sponsorship.fopinternational.org/donate">
                                             <span class="service-item-category">Build</span>
                                             <h2 class="service-item-title">A Home</h2>
                                         </a>

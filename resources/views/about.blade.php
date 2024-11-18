@@ -110,7 +110,7 @@
         <!-- Navigation Menu -->
         <nav id="navmenu" class="navmenu d-flex align-items-center">
             <ul class="d-flex mb-0">
-                <li><a href="#" class="active">Home</a></li>
+                <li><a href="/" class="active">Home</a></li>
                 <li><a href="about">Who we are</a></li>
                 <li><a href="wedo">What we do</a></li>
                 {{-- <li><a href="#">Contact</a></li> --}}

@@ -1165,9 +1165,9 @@ section,
     left: 20px;
     right: 20px;
     transition: 0.3s all ease;
-    transform: translateY(100%);
-    opacity: 0;
-    visibility: hidden;
+    /* transform: translateY(100%); */
+    /* opacity: 0; */
+    /* visibility: hidden; */
 }
 
 .services-2 .service-item .service-item-contents .service-item-category {
@@ -1180,16 +1180,11 @@ section,
     margin-bottom: 0;
 }
 
-.services-2 .service-item:hover:before {
+/* .services-2 .service-item:hover:before {
     opacity: 1;
     visibility: visible;
-}
+} */
 
-.services-2 .service-item:hover .service-item-contents {
-    transform: translateY(0%);
-    opacity: 1;
-    visibility: visible;
-}
 
 .services-2 .service-item:hover img {
     transform: scale(1.2);
