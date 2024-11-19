@@ -725,12 +725,12 @@ $(document).ready(function() {
 
     // Redirect based on country selection in Donate modal
     $('#countryDonateSelect').on('change', function() {
-        window.location.href = 'http://127.0.0.1:8001/donate';
+        window.location.href = 'https://sponsorship.fopinternational.org/donate';
     });
 
     // Redirect based on country selection in Sponsor modal
     $('#countrySponsorSelect').on('change', function() {
-        window.location.href = 'http://127.0.0.1:8001';
+        window.location.href = 'https://sponsorship.fopinternational.org';
     });
 });
 </script>
